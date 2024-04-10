@@ -1,0 +1,47 @@
+{
+    "General":{
+        "diseases": [],
+        "doctors": ["Dr. A", "Dr. B"],
+        "rooms": ["001", "002", "003"]
+    },
+    "Emergency":{
+        "diseases": ["Emergency"],
+        "doctors": ["Dr. C", "Dr. D"],
+        "rooms": ["004", "005", "006"]
+    },
+    "Cardiology":{
+        "diseases": ["Heart_attack", "BP", "Stroke"],
+        "doctors": ["Dr. E", "Dr. F"],
+        "rooms": ["007", "008"]
+    },
+    "Neurology":{
+        "diseases": ["Alzheimer's", "Depression", "Bipolar_Disorder"],
+        "doctors": ["Dr. G", "Dr. H"],
+        "rooms": ["009", "010"]
+    },
+    "Oncology":{
+        "diseases": ["Cancer", "Kidney_Disease", "Diabetes"],
+        "doctors": ["Dr. I", "Dr. J"],
+        "rooms": ["101", "102"]
+    },
+    "otolaryngologist":{
+        "diseases": ["Cataract", "Psoriasis", "Psoriasis"],
+        "doctors": ["Dr. K", "Dr. L"],
+        "rooms": ["103", "104"]
+    },
+    "Dermatology":{
+        "diseases": ["Acne", "Skin_Cancer", "Rosacea"],
+        "doctors": ["Dr. M", "Dr. N"],
+        "rooms": ["105", "106"]
+    },
+    "Pulmonology":{
+        "diseases": ["Asthma", "Lung_Disease", "Emphysema"],
+        "doctors": ["Dr. O", "Dr. P"],
+        "rooms": ["107", "108"]
+    },
+    "Ophthalmology":{
+        "diseases": ["Eye_Disease", "Muscular_Degeneration", "Muscle_Pain"],
+        "doctors": ["Dr. Q", "Dr. R"],
+        "rooms": ["109", "110"]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "rooms": {
+        "001": {
+            "patient_name": "aa",
+            "patient_disease": "NA",
+            "availability": 1
+        },
+        "002": {
+            "patient_name": "cc",
+            "patient_disease": "bp",
+            "availability": 1
+        },
+        "003": {
+            "patient_name": "",
+            "patient_disease": "",
+            "availability": 0
+        },
+        "004": {
+            "patient_name": "",
+            "patient_disease": "",
+            "availability": 0
+        },
+        "005": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "006": {
+            "patient_name": "",
+            "patient_disease": "",
+            "availability": 0
+        },
+        "007": {
+            "patient_name": "Tt",
+            "patient_disease": "Stroke",
+            "availability": 1
+        },
+        "008": {
+            "patient_name": "rr",
+            "patient_disease": "stroke",
+            "availability": 1
+        },
+        "009": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "010": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "101": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "102": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "103": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "104": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "105": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "106": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "107": {
+            "patient_name": "",
+            "patient_disease": "",
+            "availability": 0
+        },
+        "108": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "109": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        },
+        "110": {
+            "availability": 0,
+            "patient_name": "",
+            "patient_disease": ""
+        }
+    }
+}
